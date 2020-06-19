@@ -4,7 +4,7 @@
     See LICENSE
 */
 
-class WScb {
+class WScallback {
     constructor() {
         this.running = {};
     }
