@@ -1,2 +1,2 @@
 # websocket-callback
-This class mimics the behavior of HTTP while maintaining the benefits of websockets.
+This class mimics the behavior of HTTP requests while maintaining the benefits of web sockets.
